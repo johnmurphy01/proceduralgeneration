@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 2d7b904a1b452eb438e3df60d7b20f91
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: shin_R_0
+    100002: thigh_R_0
+    100004: shin_L_0
+    100006: //RootNode
+    100008: thigh_L_0
+    100010: wingFold_R_0
+    100012: wing3_R_0
+    100014: wing2_R_0
+    100016: wing1_R_0
+    100018: wingFold_L_0
+    100020: wing3_L_0
+    100022: wing2_L_0
+    100024: wing1_L_0
+    100026: tail_0
+    100028: butt_0
+    100030: jaw_0
+    100032: head_0
+    100034: body_0
+    100036: IK_Knee_R_0
+    100038: foot_R_0
+    100040: IK_Knee_L_0
+    100042: foot_L_0
+    100044: mainMover_0
+    100046: BirdBones_0
+    100048: BirdMesh_0
+    400000: shin_R_0
+    400002: thigh_R_0
+    400004: shin_L_0
+    400006: //RootNode
+    400008: thigh_L_0
+    400010: wingFold_R_0
+    400012: wing3_R_0
+    400014: wing2_R_0
+    400016: wing1_R_0
+    400018: wingFold_L_0
+    400020: wing3_L_0
+    400022: wing2_L_0
+    400024: wing1_L_0
+    400026: tail_0
+    400028: butt_0
+    400030: jaw_0
+    400032: head_0
+    400034: body_0
+    400036: IK_Knee_R_0
+    400038: foot_R_0
+    400040: IK_Knee_L_0
+    400042: foot_L_0
+    400044: mainMover_0
+    400046: BirdBones_0
+    400048: BirdMesh_0
+    4300000: BirdMesh_0
+    7400000: Flying
+    7400002: Gliding
+    7400004: Idle
+    7400006: Landing
+    7400008: Pecking
+    7400010: Walk
+    7400012: Yelling
+    11100000: //RootNode
+    13700000: mainMover_0
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

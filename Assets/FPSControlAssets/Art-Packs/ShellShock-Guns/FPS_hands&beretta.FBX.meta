@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 3229996e88663441d8a5c0dcd144be92
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01 R Toe0
+    100004: Bip01 R Calf
+    100006: hands
+    100008: Bip01 L Toe0
+    100010: Bip01 R Foot
+    100012: Bip01 L Calf
+    100014: Bip01 R Thigh
+    100016: Bip01 R ForeTwist1
+    100018: Bip01 L Foot
+    100020: holder
+    100022: Bip01 L Thigh
+    100024: triger
+    100026: Bip01 R ForeTwist
+    100028: peen
+    100030: beretta_top
+    100032: Bip01 R Finger4
+    100034: Bip01 R Finger42
+    100036: beretta
+    100038: Bip01 R Finger31
+    100040: Bip01 R Finger41
+    100042: Bip01 R Finger22
+    100044: Bip01 R Finger32
+    100046: Bip01 R Finger2
+    100048: Bip01 R Finger3
+    100050: Bip01 R Finger11
+    100052: Bip01 R Finger21
+    100054: Bip01 R Finger02
+    100056: Bip01 R Finger12
+    100058: Bip01 R Finger0
+    100060: Bip01 R Finger1
+    100062: Bip01 R Hand
+    100064: Bip01 R Finger01
+    100066: Bip01 L ForeTwist1
+    100068: Bip01 R UpperArm
+    100070: Bip01 R Forearm
+    100072: bullet_03
+    100074: Bip01 R Clavicle
+    100076: bullet_02
+    100078: Bip01 L ForeTwist
+    100080: Bip01 L Finger42
+    100082: holder01
+    100084: Bip01 L Finger4
+    100086: Bip01 L Finger02
+    100088: Bip01 L Finger31
+    100090: Bip01 L Finger41
+    100092: Bip01 L Finger22
+    100094: Bip01 L Finger32
+    100096: Bip01 L Finger2
+    100098: Bip01 L Finger3
+    100100: Bip01 L Finger11
+    100102: Bip01 L Finger21
+    100104: Bip01 L Finger01
+    100106: Bip01 L Finger12
+    100108: Bip01 L Hand
+    100110: Bip01 L Finger1
+    100112: Bip01 L UpperArm
+    100114: Bip01 L Finger0
+    100116: Bip01 camer_point
+    100118: Bip01 L Forearm
+    100120: Bip01 Neck
+    100122: Bip01 L Clavicle
+    100124: Bip01 Spine1
+    100126: Bip01 Head
+    100128: Bip01 Pelvis
+    100130: Bip01 Spine2
+    100132: Bip01 Spine
+    100134: Bip01
+    400000: //RootNode
+    400002: Bip01 R Toe0
+    400004: Bip01 R Calf
+    400006: hands
+    400008: Bip01 L Toe0
+    400010: Bip01 R Foot
+    400012: Bip01 L Calf
+    400014: Bip01 R Thigh
+    400016: Bip01 R ForeTwist1
+    400018: Bip01 L Foot
+    400020: holder
+    400022: Bip01 L Thigh
+    400024: triger
+    400026: Bip01 R ForeTwist
+    400028: peen
+    400030: beretta_top
+    400032: Bip01 R Finger4
+    400034: Bip01 R Finger42
+    400036: beretta
+    400038: Bip01 R Finger31
+    400040: Bip01 R Finger41
+    400042: Bip01 R Finger22
+    400044: Bip01 R Finger32
+    400046: Bip01 R Finger2
+    400048: Bip01 R Finger3
+    400050: Bip01 R Finger11
+    400052: Bip01 R Finger21
+    400054: Bip01 R Finger02
+    400056: Bip01 R Finger12
+    400058: Bip01 R Finger0
+    400060: Bip01 R Finger1
+    400062: Bip01 R Hand
+    400064: Bip01 R Finger01
+    400066: Bip01 L ForeTwist1
+    400068: Bip01 R UpperArm
+    400070: Bip01 R Forearm
+    400072: bullet_03
+    400074: Bip01 R Clavicle
+    400076: bullet_02
+    400078: Bip01 L ForeTwist
+    400080: Bip01 L Finger42
+    400082: holder01
+    400084: Bip01 L Finger4
+    400086: Bip01 L Finger02
+    400088: Bip01 L Finger31
+    400090: Bip01 L Finger41
+    400092: Bip01 L Finger22
+    400094: Bip01 L Finger32
+    400096: Bip01 L Finger2
+    400098: Bip01 L Finger3
+    400100: Bip01 L Finger11
+    400102: Bip01 L Finger21
+    400104: Bip01 L Finger01
+    400106: Bip01 L Finger12
+    400108: Bip01 L Hand
+    400110: Bip01 L Finger1
+    400112: Bip01 L UpperArm
+    400114: Bip01 L Finger0
+    400116: Bip01 camer_point
+    400118: Bip01 L Forearm
+    400120: Bip01 Neck
+    400122: Bip01 L Clavicle
+    400124: Bip01 Spine1
+    400126: Bip01 Head
+    400128: Bip01 Pelvis
+    400130: Bip01 Spine2
+    400132: Bip01 Spine
+    400134: Bip01
+    2300000: holder
+    2300002: triger
+    2300004: peen
+    2300006: beretta_top
+    2300008: beretta
+    2300010: bullet_03
+    2300012: bullet_02
+    2300014: holder01
+    3300000: holder
+    3300002: triger
+    3300004: peen
+    3300006: beretta_top
+    3300008: beretta
+    3300010: bullet_03
+    3300012: bullet_02
+    3300014: holder01
+    4300000: holder01
+    4300002: bullet_02
+    4300004: bullet_03
+    4300006: beretta
+    4300008: peen
+    4300010: beretta_top
+    4300012: triger
+    4300014: holder
+    4300016: hands
+    7400000: FPS_hands&beretta
+    7400002: activate
+    7400004: change
+    7400006: idle-standing
+    7400008: fire
+    7400010: empty
+    7400012: reload
+    7400014: walking
+    7400016: run
+    7400018: sprint
+    7400020: deactivate
+    7400022: activate-beretta
+    7400024: change-beretta
+    7400026: idle-beretta
+    7400028: fire-beretta
+    7400030: empty-beretta
+    7400032: reload-beretta
+    7400034: walking-beretta
+    7400036: run-beretta
+    7400038: sprint-beretta
+    7400040: deactivate-beretta
+    11100000: //RootNode
+    13700000: hands
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: activate-beretta
+      takeName: 
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: change-beretta
+      takeName: 
+      firstFrame: 26
+      lastFrame: 76
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle-beretta
+      takeName: 
+      firstFrame: 77
+      lastFrame: 127
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: fire-beretta
+      takeName: 
+      firstFrame: 128
+      lastFrame: 143
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: empty-beretta
+      takeName: 
+      firstFrame: 144
+      lastFrame: 159
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: reload-beretta
+      takeName: 
+      firstFrame: 160
+      lastFrame: 225
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walking-beretta
+      takeName: 
+      firstFrame: 226
+      lastFrame: 262
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run-beretta
+      takeName: 
+      firstFrame: 263
+      lastFrame: 285
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sprint-beretta
+      takeName: 
+      firstFrame: 286
+      lastFrame: 304
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: deactivate-beretta
+      takeName: 
+      firstFrame: 305
+      lastFrame: 330
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

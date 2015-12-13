@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -583055799, guid: e13daaf571579eb4abf0cd1e90e0e831, type: 3}
+  m_Name: RAINSettings
+  m_EditorClassIdentifier: 
+  _actionsDirectory: Assets/AI/Actions/
+  _cacheDirectory: Assets/AI/Cache/
+  _btSaveDirectory: Assets/AI/BehaviorTrees/
+  _btEditorSearchDirectory: Assets/AI/BehaviorTrees/
+  _lastLoadSaveDirectory: 
+  _btInspectorPaneWidth: 300
+  _btInspectorFieldWidth: 120
+  _useSkin: 1
+  _skin: {fileID: 0}
+  _showAdvanced: 0
+  _allowAutoUpdateCheck: 1
+  _lastUpdateCheck: 12/13/2015 2:24:14 PM
+  _updateFrequencyHours: 24
+  _updateMetaformRequired: 0

@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: ABC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1121929730, guid: bc76cc0c25d9143f9a3f919db1a9dd44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  definition:
+    weaponName: Weapon
+    pivot: {x: 0, y: 0, z: 0}
+    euler: {x: 0, y: 0, z: 0}
+    scopePivot: {x: 0, y: 0, z: 0}
+    scopeEuler: {x: 0, y: 0, z: 0}
+    scopeFOV: 20
+    maxDamagePerHit: 0
+    chargeTime: .100000001
+  weaponAnimation: {fileID: 0}
+  weaponParticles: {fileID: 0}
+  weaponSound: {fileID: 0}
+  impactName: 
+  idleState:
+    name: 
+  fireState:
+    name: 
+  reloadState:
+    name: 
+  defendState:
+    name: 
+  chargeState:
+    name: 
+  _modelController: {fileID: 0}
+  _modelOffset: {fileID: 0}
+  crossHairName: 
+  rangeDefinition:
+    rangedType: 0
+    disperseRadius: 0
+    raycasts: 1
+    spread: 1.5
+    twirlingSpeed: 5
+    twirl: {x: 0, y: 0, z: 0}
+    reloadType: 1
+    clipCapacity: 10
+    maxClips: 3
+    burstAmount: 1
+    constantRegeneration: 1
+    maximumRounds: 100
+    regenerationRate: .5
+    fullRegenerationTime: 8
+  weaponPath: {fileID: 0}
+  projectileA: {fileID: 0}
+  projectileB: {fileID: 0}
+  gunDamageLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  bulletHole: {fileID: 0}
+  contactForce: 10
+  damageFalloff:
+    distance: 0
+    _points:
+    - location: 0
+      value: 0
+  _currentClipContents: 0
+  _currentClips: 0
+  _currentAmmo: 0
+  _currentEnergy: 100
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

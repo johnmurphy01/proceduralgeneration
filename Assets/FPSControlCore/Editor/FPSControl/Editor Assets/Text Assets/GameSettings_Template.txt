@@ -1,0 +1,29 @@
+/**Do not modify anything in this file. This is used to generate a .cs file and modifying it will cause unexpected and adverse affects **/
+
+using UnityEngine;
+using System.Collections;
+
+public class GameSettings : MonoBehaviour
+{
+	
+	//Key Binding
+	
+	public static KeyCode runLeft = $RUN_LEFT ;
+	public static KeyCode runRight = $RUN_RIGHT ;
+	//public static KeyCode runForward = $RUN_FORWARD ;
+	//public static KeyCode runBackward = $RUN_BACKWARD ;
+	public static KeyCode interact = $INTERACT ;
+	public static KeyCode reload = $RELOAD ;
+	public static KeyCode escape = $ESCAPE ;
+	
+	//Mouse Settings
+	
+	public static float sensitivityX = $SENSITIVITY_X ;
+	public static float sensitivityY = $SENSITIVITY_Y ;
+	public static float mouseFilterBufferSize = $MOUSE_FILTER_BUFFER ;
+	public static float gunLookDownOffsetThreshold = $GUN_LOOK_DOWN_OFFSET ;
+	public static float minimumX = $MINIMUM_X ;
+	public static float minimumY = $MINIMUM_Y ;
+	public static float maximumX = $MAXIMUM_X ;
+	public static float maximumY = $MAXIMUM_Y ;
+}

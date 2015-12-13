@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 805624128, guid: bc76cc0c25d9143f9a3f919db1a9dd44, type: 3}
+  m_Name: ControlMappings
+  _macMaps:
+    _defaultKey: Default OSX
+    _keys:
+    - Default OSX
+    _values:
+    - _name: Default OSX
+      invertedLook: 0
+      movement:
+        _controlID: 12
+        type: 1
+        positiveX: 100
+        negativeX: 97
+        positiveY: 119
+        negativeY: 115
+      look:
+        _controlID: 13
+        type: 0
+        positiveX: 0
+        negativeX: 273
+        positiveY: 0
+        negativeY: 0
+      run:
+        _controlID: 3
+        peripheral: 1
+        key: 304
+        mouseButton: 0
+      crouch:
+        _controlID: 2
+        peripheral: 1
+        key: 306
+        mouseButton: 0
+      fire:
+        _controlID: 14
+        peripheral: 0
+        key: 112
+        mouseButton: 0
+      scope:
+        _controlID: 15
+        peripheral: 0
+        key: 0
+        mouseButton: 1
+      defend:
+        _controlID: 5
+        peripheral: 1
+        key: 120
+        mouseButton: 0
+      jump:
+        _controlID: 1
+        peripheral: 1
+        key: 32
+        mouseButton: 0
+      reload:
+        _controlID: 6
+        peripheral: 1
+        key: 114
+        mouseButton: 0
+      interact:
+        _controlID: 4
+        peripheral: 1
+        key: 101
+        mouseButton: 0
+      weaponToggle:
+        _controlID: 11
+        peripheral: 1
+        key: 113
+        mouseButton: 0
+      weapon1:
+        _controlID: 7
+        peripheral: 1
+        key: 49
+        mouseButton: 0
+      weapon2:
+        _controlID: 8
+        peripheral: 1
+        key: 50
+        mouseButton: 0
+      weapon3:
+        _controlID: 9
+        peripheral: 1
+        key: 51
+        mouseButton: 0
+      weapon4:
+        _controlID: 10
+        peripheral: 1
+        key: 52
+        mouseButton: 0
+      pause:
+        _controlID: 16
+        peripheral: 1
+        key: 0
+        mouseButton: 0
+      hideMouseCursor: 1
+  _pcMaps:
+    _defaultKey: Default PC
+    _keys:
+    - Default PC
+    _values:
+    - _name: Default PC
+      invertedLook: 0
+      movement:
+        _controlID: 12
+        type: 1
+        positiveX: 100
+        negativeX: 97
+        positiveY: 119
+        negativeY: 115
+      look:
+        _controlID: 13
+        type: 0
+        positiveX: 0
+        negativeX: 0
+        positiveY: 0
+        negativeY: 0
+      run:
+        _controlID: 3
+        peripheral: 1
+        key: 304
+        mouseButton: 0
+      crouch:
+        _controlID: 2
+        peripheral: 1
+        key: 306
+        mouseButton: 0
+      fire:
+        _controlID: 14
+        peripheral: 0
+        key: 0
+        mouseButton: 0
+      scope:
+        _controlID: 15
+        peripheral: 0
+        key: 0
+        mouseButton: 1
+      defend:
+        _controlID: 5
+        peripheral: 1
+        key: 308
+        mouseButton: 0
+      jump:
+        _controlID: 1
+        peripheral: 1
+        key: 32
+        mouseButton: 0
+      reload:
+        _controlID: 6
+        peripheral: 1
+        key: 114
+        mouseButton: 0
+      interact:
+        _controlID: 4
+        peripheral: 1
+        key: 101
+        mouseButton: 0
+      weaponToggle:
+        _controlID: 11
+        peripheral: 1
+        key: 113
+        mouseButton: 0
+      weapon1:
+        _controlID: 7
+        peripheral: 1
+        key: 49
+        mouseButton: 0
+      weapon2:
+        _controlID: 8
+        peripheral: 1
+        key: 50
+        mouseButton: 0
+      weapon3:
+        _controlID: 9
+        peripheral: 1
+        key: 51
+        mouseButton: 0
+      weapon4:
+        _controlID: 10
+        peripheral: 1
+        key: 52
+        mouseButton: 0
+      pause:
+        _controlID: 16
+        peripheral: 1
+        key: 0
+        mouseButton: 0
+      hideMouseCursor: 1
+  _iOSMaps:
+    _defaultKey: 
+    _keys: []
+    _values: []
+  _androidMaps:
+    _defaultKey: 
+    _keys: []
+    _values: []
+  _ouyaMaps:
+    _defaultKey: Default Ouya
+    _keys:
+    - Default Ouya
+    _values:
+    - _name: Default Ouya
+      invertedLook: 0
+      movement:
+        _controlID: 12
+        type: 0
+        upButton: 11
+        downButton: 13
+        leftButton: 11
+        rightButton: 12
+        xAxis: 0
+        yAxis: 1
+        deadZoneX: .25
+        deadZoneY: .25
+        _buttonNames: []
+        _stickNames: []
+      look:
+        _controlID: 13
+        type: 0
+        upButton: 0
+        downButton: 0
+        leftButton: 0
+        rightButton: 0
+        xAxis: 2
+        yAxis: 3
+        deadZoneX: .170731723
+        deadZoneY: .207317069
+        _buttonNames: []
+        _stickNames: []
+      run:
+        _controlID: 3
+        button: 4
+        _buttonNames: []
+      crouch:
+        _controlID: 2
+        button: 8
+        _buttonNames: []
+      fire:
+        _controlID: 14
+        button: 7
+        _buttonNames: []
+      scope:
+        _controlID: 15
+        button: 9
+        _buttonNames: []
+      defend:
+        _controlID: 5
+        button: 5
+        _buttonNames: []
+      jump:
+        _controlID: 1
+        button: 0
+        _buttonNames: []
+      reload:
+        _controlID: 6
+        button: 6
+        _buttonNames: []
+      interact:
+        _controlID: 4
+        button: 1
+        _buttonNames: []
+      weaponToggle:
+        _controlID: 11
+        button: 2
+        _buttonNames: []
+      weapon1:
+        _controlID: 7
+        button: 11
+        _buttonNames: []
+      weapon2:
+        _controlID: 8
+        button: 14
+        _buttonNames: []
+      weapon3:
+        _controlID: 9
+        button: 13
+        _buttonNames: []
+      weapon4:
+        _controlID: 10
+        button: 12
+        _buttonNames: []
+      pause:
+        _controlID: 16
+        button: 0
+        _buttonNames:
+        - O
+        - U
+        - Y
+        - A
+        - LB
+        - LT
+        - RB
+        - RT
+        - L3
+        - R3
+        - SYS
+        - DPU
+        - DPR
+        - DPD
+        - DPL
+  _steamboxMaps:
+    _defaultKey: 
+    _keys: []
+    _values: []

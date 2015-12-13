@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 867c944efc01e3a41b9822f55707fe4d
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip001 Xtra03Nub
+    100002: Bip001 Xtra01Nub
+    100004: Bip001 R ForeTwist1
+    100006: Bip001 Xtra04Nub
+    100008: Bip001 L Toe0Nub
+    100010: Bip001 R Toe0Nub
+    100012: Bip001 Xtra05Nub
+    100014: Bip001 R ForeTwist
+    100016: Bip001 R Finger4Nub
+    100018: Bip001 Xtra02Nub
+    100020: shutter
+    100022: trigger
+    100024: Line001
+    100026: m16_holder_01
+    100028: IK Chain004
+    100030: Dummy001
+    100032: m16_rifle
+    100034: //RootNode
+    100036: Swat_Char_pipe_jnt14
+    100038: Swat_Char_pipe_jnt09
+    100040: Swat_Char_pipe_jnt13
+    100042: Swat_Char_pipe_jnt07
+    100044: Swat_Char_pipe_jnt10
+    100046: Swat_Char_pipe_jnt01
+    100048: Swat_Char_pipe_jnt03
+    100050: Swat_Char_pipe_jnt08
+    100052: Swat_Char_pipe_jnt06
+    100054: Swat_Char_pipe_jnt05
+    100056: Swat_Char_pipe_jnt12
+    100058: Swat_Char_pipe_jnt04
+    100060: Swat_Char_pipe_jnt11
+    100062: Swat_Char_pipe_jnt02
+    100064: IK Chain005
+    100066: Bip001 Xtra03
+    100068: Bip001 L Foot
+    100070: Point001
+    100072: Bip001 L Calf
+    100074: Bip001 Head
+    100076: Bip001 L Thigh
+    100078: Bip001 Xtra01
+    100080: Bip001 Xtra02
+    100082: Bip001 HeadNub
+    100084: Point002
+    100086: Bip001 R Foot
+    100088: Bip001 L Toe0
+    100090: Point003
+    100092: Bip001 Xtra05
+    100094: Bip001 R Calf
+    100096: Bip001 R Thigh
+    100098: Bip001 R Toe0
+    100100: Bip001 Prop1
+    100102: Bip001 Xtra04
+    100104: Lowpoly_group_backpack_addons_low
+    100106: Bip001 R Finger4
+    100108: Bip001 R Finger3Nub
+    100110: Bip001 R Finger32
+    100112: Bip001 R Finger31
+    100114: Bip001 R Finger3
+    100116: Bip001 R Finger2Nub
+    100118: Bip001 R Finger22
+    100120: Bip001 R Finger21
+    100122: Bip001 R Finger2
+    100124: Bip001 R Finger1Nub
+    100126: Bip001 R Finger12
+    100128: Bip001 R Finger11
+    100130: Bip001 R Finger1
+    100132: Bip001 R Finger0Nub
+    100134: Bip001 R Finger02
+    100136: Bip001 R Finger01
+    100138: Bip001 R Finger0
+    100140: Bip001 R Forearm
+    100142: Bip001 R UpperArm
+    100144: Bip001 R Clavicle
+    100146: Bip001 L ForeTwist1
+    100148: Bip001 L ForeTwist
+    100150: Bip001 L Finger4Nub
+    100152: Bip001 L Finger42
+    100154: Bip001 L Finger41
+    100156: Bip001 L Finger4
+    100158: Bip001 L Finger3Nub
+    100160: Bip001 L Finger32
+    100162: Bip001 L Finger31
+    100164: Bip001 L Finger3
+    100166: Bip001 L Finger2Nub
+    100168: Bip001 L Finger22
+    100170: Bip001 L Finger21
+    100172: Bip001 L Finger2
+    100174: Bip001 L Finger1Nub
+    100176: Bip001 L Finger12
+    100178: Bip001 L Finger11
+    100180: Bip001 L Finger1
+    100182: Bip001 L Finger0Nub
+    100184: Bip001 L Finger02
+    100186: Bip001 L Finger01
+    100188: Bip001 L Finger0
+    100190: Bip001 L Forearm
+    100192: Bip001 L UpperArm
+    100194: Bip001 L Clavicle
+    100196: Bip001 Footsteps
+    100198: Lowpoly_group_feet_low
+    100200: Lowpoly_group_armor_flaps_low
+    100202: Lowpoly_group_body_low
+    100204: Lowpoly_group_tube_low
+    100206: Lowpoly_group_head_low
+    100208: shoulders_low_Lowpoly_group
+    100210: Bip001 R Hand
+    100212: Bip001 L Hand
+    100214: Bip001 Neck
+    100216: Bip001 Spine3
+    100218: Bip001 Spine2
+    100220: Bip001 Spine1
+    100222: Bip001 Spine
+    100224: Bip001 Pelvis
+    100226: Bip001
+    100228: Bip001 R Finger41
+    100230: Bip001 R Finger42
+    400000: Bip001 Xtra03Nub
+    400002: Bip001 Xtra01Nub
+    400004: Bip001 R ForeTwist1
+    400006: Bip001 Xtra04Nub
+    400008: Bip001 L Toe0Nub
+    400010: Bip001 R Toe0Nub
+    400012: Bip001 Xtra05Nub
+    400014: Bip001 R ForeTwist
+    400016: Bip001 R Finger4Nub
+    400018: Bip001 Xtra02Nub
+    400020: shutter
+    400022: trigger
+    400024: Line001
+    400026: m16_holder_01
+    400028: IK Chain004
+    400030: Dummy001
+    400032: m16_rifle
+    400034: //RootNode
+    400036: Swat_Char_pipe_jnt14
+    400038: Swat_Char_pipe_jnt09
+    400040: Swat_Char_pipe_jnt13
+    400042: Swat_Char_pipe_jnt07
+    400044: Swat_Char_pipe_jnt10
+    400046: Swat_Char_pipe_jnt01
+    400048: Swat_Char_pipe_jnt03
+    400050: Swat_Char_pipe_jnt08
+    400052: Swat_Char_pipe_jnt06
+    400054: Swat_Char_pipe_jnt05
+    400056: Swat_Char_pipe_jnt12
+    400058: Swat_Char_pipe_jnt04
+    400060: Swat_Char_pipe_jnt11
+    400062: Swat_Char_pipe_jnt02
+    400064: IK Chain005
+    400066: Bip001 Xtra03
+    400068: Bip001 L Foot
+    400070: Point001
+    400072: Bip001 L Calf
+    400074: Bip001 Head
+    400076: Bip001 L Thigh
+    400078: Bip001 Xtra01
+    400080: Bip001 Xtra02
+    400082: Bip001 HeadNub
+    400084: Point002
+    400086: Bip001 R Foot
+    400088: Bip001 L Toe0
+    400090: Point003
+    400092: Bip001 Xtra05
+    400094: Bip001 R Calf
+    400096: Bip001 R Thigh
+    400098: Bip001 R Toe0
+    400100: Bip001 Prop1
+    400102: Bip001 Xtra04
+    400104: Lowpoly_group_backpack_addons_low
+    400106: Bip001 R Finger4
+    400108: Bip001 R Finger3Nub
+    400110: Bip001 R Finger32
+    400112: Bip001 R Finger31
+    400114: Bip001 R Finger3
+    400116: Bip001 R Finger2Nub
+    400118: Bip001 R Finger22
+    400120: Bip001 R Finger21
+    400122: Bip001 R Finger2
+    400124: Bip001 R Finger1Nub
+    400126: Bip001 R Finger12
+    400128: Bip001 R Finger11
+    400130: Bip001 R Finger1
+    400132: Bip001 R Finger0Nub
+    400134: Bip001 R Finger02
+    400136: Bip001 R Finger01
+    400138: Bip001 R Finger0
+    400140: Bip001 R Forearm
+    400142: Bip001 R UpperArm
+    400144: Bip001 R Clavicle
+    400146: Bip001 L ForeTwist1
+    400148: Bip001 L ForeTwist
+    400150: Bip001 L Finger4Nub
+    400152: Bip001 L Finger42
+    400154: Bip001 L Finger41
+    400156: Bip001 L Finger4
+    400158: Bip001 L Finger3Nub
+    400160: Bip001 L Finger32
+    400162: Bip001 L Finger31
+    400164: Bip001 L Finger3
+    400166: Bip001 L Finger2Nub
+    400168: Bip001 L Finger22
+    400170: Bip001 L Finger21
+    400172: Bip001 L Finger2
+    400174: Bip001 L Finger1Nub
+    400176: Bip001 L Finger12
+    400178: Bip001 L Finger11
+    400180: Bip001 L Finger1
+    400182: Bip001 L Finger0Nub
+    400184: Bip001 L Finger02
+    400186: Bip001 L Finger01
+    400188: Bip001 L Finger0
+    400190: Bip001 L Forearm
+    400192: Bip001 L UpperArm
+    400194: Bip001 L Clavicle
+    400196: Bip001 Footsteps
+    400198: Lowpoly_group_feet_low
+    400200: Lowpoly_group_armor_flaps_low
+    400202: Lowpoly_group_body_low
+    400204: Lowpoly_group_tube_low
+    400206: Lowpoly_group_head_low
+    400208: shoulders_low_Lowpoly_group
+    400210: Bip001 R Hand
+    400212: Bip001 L Hand
+    400214: Bip001 Neck
+    400216: Bip001 Spine3
+    400218: Bip001 Spine2
+    400220: Bip001 Spine1
+    400222: Bip001 Spine
+    400224: Bip001 Pelvis
+    400226: Bip001
+    400228: Bip001 R Finger41
+    400230: Bip001 R Finger42
+    4300000: shoulders_low_Lowpoly_group
+    4300002: Lowpoly_group_head_low
+    4300004: Lowpoly_group_tube_low
+    4300006: Lowpoly_group_body_low
+    4300008: Lowpoly_group_armor_flaps_low
+    4300010: Lowpoly_group_backpack_addons_low
+    4300012: Lowpoly_group_feet_low
+    4300014: m16_rifle
+    4300016: m16_holder_01
+    4300018: shutter
+    4300020: trigger
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: shutter
+    13700002: trigger
+    13700004: m16_holder_01
+    13700006: m16_rifle
+    13700008: Lowpoly_group_backpack_addons_low
+    13700010: Lowpoly_group_feet_low
+    13700012: Lowpoly_group_armor_flaps_low
+    13700014: Lowpoly_group_body_low
+    13700016: Lowpoly_group_tube_low
+    13700018: Lowpoly_group_head_low
+    13700020: shoulders_low_Lowpoly_group
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
